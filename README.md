@@ -1,8 +1,12 @@
 # Todo-App 
 Create a simple Todo App List using React only
+
 In this project we create a todoList,In this we devide this intlo 2parts
+
 1.TodoForm.js->it will display the form of which we give input to the app and to submit of input.
+
 2.Todo.js->it will display complete,delete of todos.for this we give 2buttons done,delete.
+
 And after that we add those functions into main function App.js.Then it and index.html will run in 
 index.js..
 
